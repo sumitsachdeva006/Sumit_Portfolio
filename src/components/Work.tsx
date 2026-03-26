@@ -5,34 +5,34 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
+    title: "Moksha Trading Competition",
+    category: "Academic / Extra Curricular",
+    tools: "Secured First position in NSUT Moksha Trading Competition.",
+    image: "/images/achieve_moksha.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    title: "StockGro Trading",
+    category: "Extra Curricular",
+    tools: "Participated and won many trading competitions on StockGro.",
+    image: "/images/achieve_stockgro.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
+    title: "TATA Bharat YUVAi",
+    category: "Hackathon",
+    tools: "Participated in TATA Bharat YUVAi Hackathon.",
+    image: "/images/achieve_tata.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
+    title: "SEBI Certificate",
+    category: "Certificate",
+    tools: "Scored Full Marks in SEBI - Investor Certification Exam.",
+    image: "/images/achieve_sebi.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
+    title: "McKinsey Forward",
+    category: "Program",
+    tools: "Completed McKinsey.Org Forward Programme by McKinsey Academy.",
+    image: "/images/achieve_mckinsey.svg",
   },
 ];
 
@@ -66,7 +66,7 @@ const Work = () => {
     <div className="work-section" id="work">
       <div className="work-container section-container">
         <h2>
-          My <span>Work</span>
+          My <span>Achievements</span>
         </h2>
 
         <div className="carousel-wrapper">
@@ -109,7 +109,7 @@ const Work = () => {
                           {project.category}
                         </p>
                         <div className="carousel-tools">
-                          <span className="tools-label">Tools & Features</span>
+                          <span className="tools-label">Details</span>
                           <p>{project.tools}</p>
                         </div>
                       </div>

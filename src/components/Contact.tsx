@@ -10,25 +10,26 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:sumitsachdeva006@gmail.com" data-cursor="disable">
+                sumitsachdeva006@gmail.com
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>B. Com (Hons.)</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/khushi-varshney17"
-              target="_blank"
+              href="#"
               data-cursor="disable"
               className="contact-social"
+              title="Not Available"
+              onClick={(e) => e.preventDefault()}
             >
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/khushi-varshney17"
+              href="https://www.linkedin.com/in/sumit--sachdeva"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,7 +37,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/khushi_varshney17"
+              href="https://x.com/Sumit_07092006"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -44,20 +45,21 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/khushi.varshney17"
-              target="_blank"
+              href="#"
               data-cursor="disable"
               className="contact-social"
+              title="Not Available"
+              onClick={(e) => e.preventDefault()}
             >
               Instagram <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Khushi Varshney</span>
+              Designed and Developed <br /> by <span>Sumit Sachdeva</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

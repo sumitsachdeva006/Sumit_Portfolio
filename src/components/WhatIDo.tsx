@@ -87,22 +87,19 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>FINANCE & ACCOUNTS</h3>
+              <h4>Financial Planning & Taxation</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Understanding financial concepts, preparation of interactive reports, and hands-on 
+                practice with accounting principles and financial modelling.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Financial Modelling</div>
+                <div className="what-tags">Tally</div>
+                <div className="what-tags">SAP(FI-CO)</div>
+                <div className="what-tags">Accounting</div>
+                <div className="what-tags">Taxation</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +123,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>DATA ANALYSIS</h3>
+              <h4>Analyzing Data for Decisions</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Utilizing modern visualization tools to draw insights from large datasets, 
+                and assisting in data-driven decision-making for business scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Power Bi</div>
+                <div className="what-tags">MS-Excel (Macros & VBA)</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">MS-PowerPoint</div>
+                <div className="what-tags">Digital Marketing</div>
               </div>
               <div className="what-arrow"></div>
             </div>

@@ -6,11 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          I’m Sumit, a detail-oriented B.Com (Honours) student at Deen Dayal Upadhyaya College, University of Delhi, and a CMA Intermediate candidate with ICMAI. 
+          <br /><br />
+          What drives me? 
+          <br /><br />
+          Clarity in complexity. Whether it’s reconciling accounts in ERP, building dynamic financial models in Excel, or visualizing trends through Power BI dashboards, I thrive on transforming raw data into actionable business insights. 
+          <br /><br />
+          I believe precision, process efficiency, and continuous learning are the backbone of smart finance, and I’m actively exploring high-impact professional certifications to deepen my expertise in emerging areas like ESG, advanced analytics, and strategic cost management.
         </p>
       </div>
     </div>
